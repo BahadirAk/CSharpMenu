@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\bin\Debug\CSharpMenu.exe.config
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\bin\Debug\CSharpMenu.exe
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\bin\Debug\CSharpMenu.pdb
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\obj\Debug\CSharpMenu.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\obj\Debug\CSharpMenu.exe
+C:\Users\Lenovo\Desktop\İş\My Projects\CSharpMenu\CSharpMenu\obj\Debug\CSharpMenu.pdb
