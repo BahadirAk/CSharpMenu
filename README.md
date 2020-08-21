@@ -1,2 +1,2 @@
 # CSharpMenu
-Basic operations in infinite loop
+Basic operations in an infinite loop
